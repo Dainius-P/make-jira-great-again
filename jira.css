@@ -1,0 +1,7 @@
+button[data-testid="software-backlog.card-list.start-sprint-button"] {
+    background-color: red;
+}
+
+button[data-testid="software-backlog.card-list.start-sprint-button"]:hover {
+    background-color: red;
+}
